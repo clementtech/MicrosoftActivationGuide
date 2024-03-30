@@ -6,8 +6,8 @@
 All file is directly linked from Microsoft
 
 Windows:
-[Windows 10](https://www.microsoft.com/en-au/software-download/windows10)
-[Windows 11](https://www.microsoft.com/en-au/software-download/windows11)
+- [Windows 10](https://www.microsoft.com/en-au/software-download/windows10)
+- [Windows 11](https://www.microsoft.com/en-au/software-download/windows11)
 
 Office:
 
@@ -26,5 +26,3 @@ Office:
 
 
 ---
-
-<p align="center">Made with Love ❤️</p>
